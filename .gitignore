@@ -8,3 +8,6 @@
 *.toc
 *.lof
 *.lot
+*.slxc
+*.slx.original
+slprj/
